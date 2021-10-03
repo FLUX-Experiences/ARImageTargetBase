@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Golinelli image targets
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5210117248429382639
+  m_GuidHigh: 11614443764893805490
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4900290263380450191
+      m_GuidHigh: 6834815031873964963
+    m_SerializedTextureGuid:
+      m_GuidLow: 9625431231578342144
+      m_GuidHigh: 9494667809790169864
+    m_Size: {x: 0.1, y: 0.055555556}
+    m_SpecifySize: 1
+    m_Name: golinelli1
+    m_Texture: {fileID: 2800000, guid: 182d830066b585940813e16e11d6c383, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4720513063451262598
+      m_GuidHigh: 13946748775473761178
+    m_SerializedTextureGuid:
+      m_GuidLow: 8567039901373136218
+      m_GuidHigh: 7158554499053812360
+    m_Size: {x: 0.1, y: 0.055416666}
+    m_SpecifySize: 1
+    m_Name: golinelli2
+    m_Texture: {fileID: 2800000, guid: 71f17d5a3d6676e4887a60a5634b5863, type: 3}
